@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "925542775885",
+    "firebase_url": "https://mini-5a904.firebaseio.com",
+    "project_id": "mini-5a904",
+    "storage_bucket": "mini-5a904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925542775885:android:0e47bcd61872b736",
+        "android_client_info": {
+          "package_name": "com.example.rajeevjha.mini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925542775885-6gr6fgf5oek71od3k4bp1ropjsl67q33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7h7GK-hV9i2yAjaY2DuM5Tx6VU9D1sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
